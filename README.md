@@ -6,3 +6,6 @@ Installer Jest
 
 Ajout de test Jest dans le package.json
 ![alt text](images/image2.png)
+
+Creation de la function addition
+![alt text](images/image3.png)
