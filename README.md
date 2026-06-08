@@ -9,3 +9,6 @@ Ajout de test Jest dans le package.json
 
 Creation de la function addition
 ![alt text](images/image3.png)
+
+test realiser
+![alt text](images/image4.png)
