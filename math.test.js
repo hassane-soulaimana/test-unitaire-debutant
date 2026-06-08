@@ -1,4 +1,5 @@
-const somme = require('./math.js');
+const {addition} = require('./math.js');
 
-test('addition de 1 et 5', () => {
-    expect(sommme(1,5)).toBe(6);});
+test('addition de 1 et 5 donne 6', () => {
+    expect(addition(1,5)).toBe(6);
+});
