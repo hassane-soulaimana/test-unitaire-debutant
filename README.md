@@ -12,3 +12,8 @@ Creation de la function addition
 
 test realiser
 ![alt text](images/image4.png)
+
+Modifier volontairement le code pour le faire échouer
+![alt text](images/image5.png)
+
+Repasser le test en corrigant l'erreur.
