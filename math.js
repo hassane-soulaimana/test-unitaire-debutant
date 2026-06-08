@@ -1,3 +1,4 @@
-export function somme (nombre1,nombre2){
-    return (1 + 5)
+function addition (a,b){
+    return a + b;
 }
+module.exports = {addition};
